@@ -1,11 +1,32 @@
 {
   "name": "warsawjs-workshop-25-myskills",
   "version": "1.0.0",
-  "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "build": "webpack",
+    "watch": "webpack -w",
+    "start": "http-server"
   },
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/slawinski/warsawjs-workshop-25-myskills.git"
+  },
+  "keywords": [],
+  "bugs": {
+    "url": "https://github.com/slawinski/warsawjs-workshop-25-myskills/issues"
+  },
+  "homepage": "https://github.com/slawinski/warsawjs-workshop-25-myskills#readme",
+  "description": "",
+  "dependencies": {
+    "@babel/core": "^7.1.2",
+    "@babel/preset-react": "^7.0.0",
+    "babel-loader": "^8.0.4",
+    "http-server": "^0.11.1",
+    "react": "^16.5.2",
+    "react-dom": "^16.5.2",
+    "webpack": "^4.20.2",
+    "webpack-cli": "^3.1.2"
+  }
 }
