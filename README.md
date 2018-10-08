@@ -1,6 +1,12 @@
 # Skillset selector
 
 TODO:
-- add more skills
-- fix linter
-- why not docker?
+[ ] Add more content
+[ ] Fix linter
+[*] Implement docker
+
+Run developement mode with:
+```
+$ docker-compose up
+```
+
