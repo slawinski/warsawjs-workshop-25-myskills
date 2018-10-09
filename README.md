@@ -9,7 +9,7 @@ TODO:\
 [ &nbsp;] Implement tests
 
 Run developement mode with:
-```
-$ docker-compose up
+```bash
+docker-compose up --build
 ```
 

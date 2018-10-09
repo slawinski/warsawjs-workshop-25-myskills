@@ -1,8 +1,6 @@
 FROM node:10
 
-RUN npm install webpack -g
-
-RUN npm install webpack-cli
+RUN npm install webpack webpack-cli -g
 
 WORKDIR /app
 
