@@ -1,4 +1,4 @@
-# Skillset selector
+# myskills
 
 Based on https://github.com/piecioshka/warsawjs-workshop-25-myskills
 
