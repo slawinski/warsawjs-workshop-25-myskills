@@ -8,7 +8,11 @@ TODO:\
 [\*] Implement docker\
 [ &nbsp;] Implement tests
 
-Run developement mode with:
+## Running the app
+
+Make sure you have docker installed and running locally ([click](https://www.docker.com))
+
+Then run:
 ```bash
 docker-compose up --build
 ```
