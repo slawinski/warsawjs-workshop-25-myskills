@@ -16,12 +16,12 @@ docker-compose up --build
 TBD
 
 ## TODOs
-[\*] README\
-[\*] Docker\
-[\*] Webpack\
-[ &nbsp;] Linter\
-[ &nbsp;] Tests\
-[ &nbsp;] More Skills
+✅ README\
+✅ Docker\
+✅ Webpack\
+❌ Linter\
+❌ Tests\
+❌ More Skills
 
 ## License
 
