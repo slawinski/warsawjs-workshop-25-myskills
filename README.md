@@ -3,10 +3,11 @@
 Based on https://github.com/piecioshka/warsawjs-workshop-25-myskills
 
 TODO:\
-[ &nbsp;] Add more content\
-[ &nbsp;] Fix linter\
-[\*] Implement docker\
-[ &nbsp;] Implement tests
+[\*] Docker\
+[\*] Webpack\
+[ &nbsp;] Linter\
+[ &nbsp;] Tests\
+[ &nbsp;] More Skills\
 
 ## Running the app
 
