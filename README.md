@@ -15,7 +15,7 @@ docker-compose up --build
 
 TBD
 
-## TODO:\
+## TODOs
 [\*] README\
 [\*] Docker\
 [\*] Webpack\
