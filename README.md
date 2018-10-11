@@ -1,20 +1,32 @@
 # myskills
 
-Based on https://github.com/piecioshka/warsawjs-workshop-25-myskills
+A simple skill selector to gather and store completely fake skills
 
-TODO:\
-[\*] Docker\
-[\*] Webpack\
-[ &nbsp;] Linter\
-[ &nbsp;] Tests\
-[ &nbsp;] More Skills\
+## Getting started
 
-## Running the app
-
-Make sure you have docker installed and running locally ([click](https://www.docker.com))
+Make sure you have Docker and Compose installed and running locally ([click](https://www.docker.com))
 
 Then run:
 ```bash
 docker-compose up --build
 ```
 
+## Running the tests
+
+TBD
+
+## TODO:\
+[\*] README\
+[\*] Docker\
+[\*] Webpack\
+[ &nbsp;] Linter\
+[ &nbsp;] Tests\
+[ &nbsp;] More Skills
+
+## License
+
+TBD
+
+## Acknowledgments
+
+Based on https://github.com/piecioshka/warsawjs-workshop-25-myskills
