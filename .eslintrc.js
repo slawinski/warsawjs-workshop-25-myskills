@@ -1,5 +1,5 @@
 module.exports = {
-  extends: "piecioshka",
+  extends: ['airbnb', 'prettier'],
 
   env: {
     browser: true,
@@ -11,15 +11,16 @@ module.exports = {
     ecmaVersion: 2018,
 
     // Support syntax ES2015 Import/Export
-    sourceType: "module",
+    sourceType: 'module',
 
     ecmaFeatures: {
       jsx: true
     }
   },
-  plugins: ["react"],
+  plugins: ['react', 'prettier'],
   rules: {
-    "sort-imports": "off",
-    "no-unused-vars": "off"
+    'sort-imports': 'off',
+    'no-unused-vars': 'off',
+    'prettier/prettier': ['error']
   }
 };
