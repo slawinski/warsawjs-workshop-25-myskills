@@ -1,12 +1,13 @@
 # myskills
 
-A simple skill selector to gather and store completely fake skills.
+A simple skill selector to gather and store completely fake skills
 
 ## Getting started
 
-Make sure you have Docker and Compose installed and running locally ([click](https://www.docker.com)).
+Make sure you have Docker and Compose installed and running locally ([click](https://www.docker.com))
 
 Then run:
+
 ```bash
 docker-compose up --build
 ```
@@ -16,12 +17,12 @@ docker-compose up --build
 TBD
 
 ## TODOs
+
 ✅ README\
 ✅ Docker\
 ✅ Webpack\
 ✅ Linter\
 ❌ Tests\
-❌ Heroku\
 ❌ More Skills
 
 ## License
