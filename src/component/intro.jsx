@@ -1,7 +1,7 @@
 import React, { Component } from 'react';
 import { Link } from 'react-router-dom';
 
-export class IntroComponent extends Component {
+class IntroComponent extends Component {
   render() {
     return (
       <div>
@@ -13,3 +13,5 @@ export class IntroComponent extends Component {
     );
   }
 }
+
+export { IntroComponent };

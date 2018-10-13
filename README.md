@@ -21,7 +21,7 @@ TBD
 ✅ README\
 ✅ Docker\
 ✅ Webpack\
-✅ Linter\
+❌ Linter\
 ❌ Tests\
 ❌ More Skills
 

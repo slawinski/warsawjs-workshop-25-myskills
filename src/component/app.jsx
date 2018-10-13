@@ -9,7 +9,7 @@ import {
 import { IntroComponent } from './intro';
 import { FormComponent } from './form';
 
-export class AppComponent extends Component {
+class AppComponent extends Component {
   render() {
     return (
       <Router>
@@ -21,3 +21,5 @@ export class AppComponent extends Component {
     );
   }
 }
+
+export { AppComponent };
